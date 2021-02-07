@@ -49,8 +49,10 @@ while True:
             print(name)
             if name == 'levi':
               msg(name)
+	      exit()
             elif name == 'obama':
               msg(name)
+	      exit()
 
         else:
             print(name)
